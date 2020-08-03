@@ -1,8 +1,7 @@
 ![Hello, I am Yulia and I love new challenges](https://github.com/LiaTsernant/LiaTsernant/raw/master/assets/readme.gif)
 
 
-## <h3 style="font-family:monospace">Some links about me:<h3>
-- <p style="font-family:monospace">My <a href="https://yuliatsernant.com">portfolio</a> 💼</p>
-- <p style="font-family:monospace">Happy to connect on <a href="https://www.linkedin.com/in/yuliatsernant/"> LinkedIn</a> 💻</p>
-- <p style="font-family:monospace">My life outside projects on <a href="https://www.instagram.com/yulia_viola/">Instagram</a> 🌄 ❤️
-</p>
+## Some links about me: <a href="https://yuliatsernant.com"><img align="left" width="150" height="150" style="margin-right: 20px" src="https://github.com/LiaTsernant/LiaTsernant/raw/master/assets/me.jpg"></a>
+- My <a href="https://yuliatsernant.com">portfolio</a> 💼
+- Happy to connect on <a href="https://www.linkedin.com/in/yuliatsernant/"> LinkedIn</a> 💻
+- My life outside projects on <a href="https://www.instagram.com/yulia_viola/">Instagram</a> 🌄 ❤️
