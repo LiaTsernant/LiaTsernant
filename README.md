@@ -1,1 +1,1 @@
-![About](assets/bio.gif)
+![About](assets/readme.gif)
